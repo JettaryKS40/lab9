@@ -1,0 +1,50 @@
+-Excellence is a Habit-
+	practice to be perfect
+		-good and collect
+		-nice and easy to read
+		-reasonable
+
+Lab Feedback[lab9]
+1) check googleDocs for feedback
+2) check github
+
+	README.md: Show String init
+	
+	### Markdown: a makeup language used in wikis and other places. ###
+		# Big thick text
+		## lower than above
+		* point
+
+	
+inside the code
+
+- using JavaDocs
+- add @author
+- rearrange the /* /**
+- add in a comment
+- add a space between text:
+
+@author - identifies author(s) of a class or interface.
+@version - version info of a class or interface.
+@param - describes an argument of method or constructor.
+@return - describes data returned by method (unnecessary for constructors and void methods).
+@exception - describes exception thrown by method.
+@throws - same as @exception.
+
+Difficulties of Software
+1: CHANGE - things change[a lot]
+2: BUGS[ERRORS]
+3: COMPLEXITY
+
+Programming Principles
+-to interface not an implementation
+- specification of behavior
+
+
+___>
+
+--->
+
+---|>
+
+___|>
